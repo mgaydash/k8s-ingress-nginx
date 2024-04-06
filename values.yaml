@@ -1,0 +1,4 @@
+tcp:
+  25565: "default/minecraft-minecraft:25565"
+udp: {}
+#  53: "kube-system/kube-dns:53"
