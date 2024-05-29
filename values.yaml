@@ -1,4 +1,5 @@
 tcp:
   25565: "default/minecraft-minecraft:25565"
+  7777: "default/terraria-server-k8s-terraria-server:7777"
 udp: {}
 #  53: "kube-system/kube-dns:53"
